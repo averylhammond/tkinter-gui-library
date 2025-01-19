@@ -1,5 +1,5 @@
 [project]
-name = "poetry-dependency"
+name = "poetry_dependency"
 version = "0.1.0"
 description = ""
 authors = [
