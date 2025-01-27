@@ -1,7 +1,7 @@
 [project]
-name = "poetry_dependency"
+name = "tkinter_gui_library"
 version = "0.1.0"
-description = ""
+description = "A custom library using tkinter to construct basic GUIs"
 authors = [
     {name = "averylhammond",email = "149446626+averylhammond@users.noreply.github.com"}
 ]

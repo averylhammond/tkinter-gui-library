@@ -1,7 +1,8 @@
 from enum import Enum
 
+
 class Color(str, Enum):
-    
+
     # Blacks and Whites
     BLACK = "#000000"
     WHITE = "#FFFFFF"
