@@ -1,0 +1,1 @@
+A full list of tkinter supported colors can be found here: https://www.tcl-lang.org/man/tcl8.4/TkCmd/colors.htm
